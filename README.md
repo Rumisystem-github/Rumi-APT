@@ -6,11 +6,11 @@ Rumi-APT mean is APT in LINUX.<BR>
 [More Infomation](https://rumiserver.com/rumistore/RumiAPT.html)
 
 ## Use
-LINUX↓
+### LINUX↓
 ```sh
 /home/User$ rapt help
 ```
-Windows↓
+### Windows↓
 ```sh
 C:\Users\User> rapt help
 ```
