@@ -14,3 +14,7 @@ Windows↓
 ```sh
 C:\Users\User> rapt help
 ```
+or
+```sh
+C:\Users\User> apt help
+```
