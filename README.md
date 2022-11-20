@@ -2,7 +2,7 @@
 ___
 ## Infomation
 Rumi-APT is runs on the Windows and LINUX.<BR>
-Rumi-APT mean is APT in LINUX.<BR>
+Rumi-APT is apt in LINUX<BR>
 [More Infomation](https://rumiserver.com/rumistore/RumiAPT.html)
 
 ## Use
